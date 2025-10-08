@@ -1,4 +1,4 @@
-#A collection of Machine Learning lab tasks, experiments, and reference implementations..
+collection of Machine Learning lab tasks, experiments, and reference implementations..
 
 This repository contains all the Machine Learning tasks and experiments I completed during my lab work. 
 The purpose of this repository is to:  
